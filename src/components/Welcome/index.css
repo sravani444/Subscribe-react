@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+  background-color: #1e293b;
+  font-family: 'Bree Serif';
+}
+.loginApp-bg-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.login-card-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+}
+.heading{
+  color: #f0bb03 ;
+  font-size: 70px;
+  margin-bottom: 20px;
+}
+.paragraph{
+   color: #ffffff;
+   font-size: 20px;
+}
